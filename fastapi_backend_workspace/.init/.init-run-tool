@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && uvicorn src.api.main:app --host 0.0.0.0 --port <port> --reload",
+    "working_directory": "/home/kavia/workspace/code-generation/secureshare-reactfastapi-28210-545eb221/fastapi_backend_workspace/fastapi_backend"
+}

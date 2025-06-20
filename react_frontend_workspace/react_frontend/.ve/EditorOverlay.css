@@ -1,0 +1,10 @@
+.editor-highlight {
+  outline: 2px dashed orange !important;
+}
+
+.edit-mode-active *:hover:not(#editor-panel *):not(#editor-panel) {
+  background-color: inherit !important;
+  box-shadow: none !important;
+  border-color: inherit !important;
+  cursor: default !important;
+}

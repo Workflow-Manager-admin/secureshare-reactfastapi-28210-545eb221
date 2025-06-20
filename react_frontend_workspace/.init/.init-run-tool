@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/secureshare-reactfastapi-28210-545eb221/react_frontend_workspace/react_frontend"
+}
